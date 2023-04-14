@@ -94,11 +94,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <br/>
         
 <img
-     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=mbozkayaGitHub&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbozkayaGitHub&theme=blue-green"
      alt=""
      /> <br/>
 </div>
