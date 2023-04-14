@@ -6,7 +6,7 @@
 </br>
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-<font color="pink"> :face_with_monocle: A new age enthusiast. </font>
+<font color="pink"> :😊: A new age enthusiast. </font>
 </br>
 <font color="pink">:coffee: Coffee is how I keep up with code</font>
 
