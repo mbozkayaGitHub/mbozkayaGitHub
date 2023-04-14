@@ -67,10 +67,10 @@
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 ## :star2: My Projects:
 <a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React-Project.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/mbozkayaGitHub/HTML-CSS-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Project.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/mbozkayaGitHub/HTML-CSS-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS-Project.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/mbozkayaGitHub/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS-Q.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/mbozkayaGitHub/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Questions.png" style="height:60px; width: fit-content;" ></a>
 </br>
 <h2 align="center">My Top Projects</h2>
 ###
