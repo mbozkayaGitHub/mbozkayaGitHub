@@ -8,9 +8,9 @@
 </br>
 <font color="pink">:coffee: Coffee is how I keep up with code</font>
 ## :man::woman: Connect with me:
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahceylann/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mbozkaya27@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://[](https://medium.com/@mbozkaya27)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://(https://medium.com/@mbozkaya27)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbozkayaGitHub" alt="mbozkayaGitHub"/></p>
 </br>
 <h2 align="center">:rocket:Technical Skills</h2>
@@ -66,12 +66,15 @@
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 ## :star2: My Projects:
+
 <a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React-Project.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Project.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/HTML-CSS-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS-Project.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
 <a href="https://github.com/mbozkayaGitHub/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Question.png" style="height:60px; width: fit-content;" ></a>
+
 </br>
+
 <h2 align="center">My Top Projects</h2>
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
