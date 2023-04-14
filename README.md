@@ -14,7 +14,7 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mbozkaya27@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://(https://medium.com/@mbozkaya27)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@mbozkaya27)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbozkayaGitHub" alt="mbozkayaGitHub"/></p>
 
@@ -68,7 +68,7 @@
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
-## :star2: My Projects:
+ <h2> ## :star2: My Projects: <h2/>
 
 <a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React-Project.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Project.png" style="height:60px; width: fit-content;" ></a>
