@@ -66,7 +66,7 @@
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 ## :star2: My Projects:
-<a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/projects.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React-Project.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/HTML-CSS-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
