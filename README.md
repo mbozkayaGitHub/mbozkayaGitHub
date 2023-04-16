@@ -85,6 +85,7 @@
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [my-mui-project](my-mui-project.vercel.app/) <h3>[Repo](https://github.com/mbozkayaGitHub/my-mui-project)</h3> | React-MUI | ![![Animation](https://user-images.githubusercontent.com/119006810/232159309-70ba8b3b-c830-49c0-8364-a25d5a99877c.gif)]
+[Soup Restaurant](soup-restaurant.vercel.app) <h3>[Repo](https://github.com/mbozkayaGitHub/Soup_Restaurant)</h3> | React | ![![Animation](Animation.gif)]
 
 <br>
 <h2 align="center">:bulb:Most Used Language</h2>
