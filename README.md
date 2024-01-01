@@ -72,7 +72,7 @@
 
 <a href="https://github.com/mbozkayaGitHub/React-Project" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React-Project.png" style="height:60px; width: fit-content;" ></a>
 <a href="https://github.com/mbozkayaGitHub/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JavaScript-Project.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/mbozkayaGitHub/HTML-CSS-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS-Project.png" style="height:60px; width: fit-content;" ></a>
+
 
 
 
