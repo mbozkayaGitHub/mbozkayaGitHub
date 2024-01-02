@@ -88,6 +88,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Soup Restaurant](soup-restaurant.vercel.app) <h3>[Repo](https://github.com/mbozkayaGitHub/Soup_Restaurant)</h3> | React | ![Animation](https://user-images.githubusercontent.com/119006810/232289080-408308e3-ba89-46a4-b29c-fb55cb1eb3aa.gif)
 [Library Project](https://library-project-sigma-ruddy.vercel.app/) <h3>[Repo](https://github.com/mbozkayaGitHub/Library-Project)</h3> | React-Router |![library](https://github.com/mbozkayaGitHub/mbozkayaGitHub/assets/119006810/fa7dd349-ff4e-48e0-926f-196f4d4d234e)
 [Styled-Component Project](https://styledcomponentproject.vercel.app/) <h3>[Repo](https://github.com/mbozkayaGitHub/Styledcomponentproject)</h3> | React-Router-Styled-Component |![Styled-Component Project](https://github.com/mbozkayaGitHub/React-Project/assets/119006810/c22ee6d4-3cbd-40d3-aae7-1273c2d96f63)
+[Weather App](https://weather-app-liard-three.vercel.app/) <h3>[Repo](https://github.com/mbozkayaGitHub/weatherApp)</h3> | HTML-CSS-JS-Axios |![Weather App Project](https://github.com/mbozkayaGitHub/JavaScript-Projects/assets/119006810/c85477b4-e9a7-4250-8e15-1737ad8089fa)
 
 
 
